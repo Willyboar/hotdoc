@@ -8,7 +8,7 @@ To use Hotdoc you must have Nim installed. You can follow the instructions [here
 
 Then you can install Hotdoc through nimble:
 
-    nimble install https://github.com/willyboar/hotdoc
+    nimble install hotdoc
 
 Then type:
 
