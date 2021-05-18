@@ -11,4 +11,5 @@ bin           = @["hotdoc"]
 
 requires "nim >= 1.4.6"
 requires "docopt >= 0.6.8"
+requires "karax >= 1.2.1"
 
